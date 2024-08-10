@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub README</title>
 </head>
 <body>
     <header>
@@ -19,7 +18,6 @@
             <li>Interactive game board with snakes and ladders</li>
             <li>Dice rolling with animation</li>
             <li>Snake and ladder animations with confetti and vibrations</li>
-            <li>Play again functionality</li>
         </ul>
     </section>
     <section>
@@ -43,8 +41,5 @@
             <li><a href="https://instagram.com/achalnm" target="_blank">Instagram</a></li>
         </ul>
     </section>
-    <footer>
-        <p>Made by @achalnm</p>
-    </footer>
 </body>
 </html>
