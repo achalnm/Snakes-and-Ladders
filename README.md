@@ -37,8 +37,8 @@
         <p>For more information or to connect with me, check out my social media profiles below:</p>
         <ul>
             <li><a href="https://github.com/achalnm" target="_blank">GitHub</a></li>
-            <li><a href="https://www.linkedin.com/in/achalnm" target="_blank">LinkedIn</a></li>
-            <li><a href="https://instagram.com/achalnm" target="_blank">Instagram</a></li>
+            <li><a href="https://www.linkedin.com/in/achal-n-35153821b/" target="_blank">LinkedIn</a></li>
+            <li><a href="https://instagram.com/achal_n26" target="_blank">Instagram</a></li>
         </ul>
     </section>
 </body>
